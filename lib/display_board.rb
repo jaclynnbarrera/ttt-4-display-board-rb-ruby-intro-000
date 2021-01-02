@@ -20,8 +20,6 @@ board = [
 " "," "," ",
 ]
 
-
-
 def display_board(arg)
   puts " #{arg[0]}"
 end
