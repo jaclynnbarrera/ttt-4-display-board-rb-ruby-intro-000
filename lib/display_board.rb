@@ -19,4 +19,4 @@ board = [
 "seven","eight","nine",
 ]
 
-p board[1]
+p board[0]
