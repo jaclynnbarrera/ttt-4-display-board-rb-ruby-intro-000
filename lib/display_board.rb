@@ -14,9 +14,9 @@
 
 
 board = [
-"zero",
-"one",
-"two",  
+"one","two","three",
+"four","five","six",
+"seven","eight","nine",
 ]
 
 p board[1]
