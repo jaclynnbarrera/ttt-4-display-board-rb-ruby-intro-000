@@ -7,7 +7,16 @@
 #   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 # end
 
-def display_board(board)
-  puts "   |   |   "
-  puts "-----------"
-end
+# def display_board(board)
+#   puts "   |   |   "
+#   puts "-----------"
+# end
+
+
+board = [
+"zero",
+"one",
+"two",  
+]
+
+p board[1]
