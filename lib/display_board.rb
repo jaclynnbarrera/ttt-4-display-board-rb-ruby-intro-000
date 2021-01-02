@@ -22,8 +22,8 @@ board = [
 
 
 
-def display_board(board)
-  puts board[0]
+def display_board(arg)
+  puts arg[0]
 end
 
 display_board(board)
