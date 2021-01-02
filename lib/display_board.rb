@@ -11,17 +11,3 @@
 #   puts "   |   |   "
 #   puts "-----------"
 # end
-
-
-
-board = [
-"   |   |   ",
-" "," "," ",
-" "," "," ",
-]
-
-def display_board(arg)
-  puts " #{arg[0]}"
-end
-
-display_board(board)
